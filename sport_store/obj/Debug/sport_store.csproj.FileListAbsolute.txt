@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\sport_store\sport_store\bin\Debug\sport_store.exe.config
+C:\Users\user\source\repos\sport_store\sport_store\bin\Debug\sport_store.exe
+C:\Users\user\source\repos\sport_store\sport_store\bin\Debug\sport_store.pdb
+C:\Users\user\source\repos\sport_store\sport_store\obj\Debug\sport_store.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\sport_store\sport_store\obj\Debug\sport_store.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\sport_store\sport_store\obj\Debug\sport_store.exe
+C:\Users\user\source\repos\sport_store\sport_store\obj\Debug\sport_store.pdb
